@@ -1,9 +1,10 @@
 {
   "expo": {
     "name": "my-app",
-    "slug": "my-app",
+    "slug": "my-first-expo-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner":"jeffreylau",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
